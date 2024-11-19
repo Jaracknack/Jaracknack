@@ -2,7 +2,7 @@
 - 👀 I’m interested in games & art
 - 🌱 I’m currently learning everything
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ¯\_ (ツ)_/¯
+- 📫 How to reach me ¯\\_ (ツ)_/¯
 - ⚡ Fun fact: i do not know how to use github
 
 <!---
